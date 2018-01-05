@@ -132,6 +132,6 @@ print(g)
 ```
 
 This suggests I did more training (distinct from commuting) in the second half of 2017, peaking roughly around September/October, which is in fact when I ran a half-marathon.
-With a slightly more complex model we could use these proxys to track a measure of fitness over time, similar to VO~2~ max estimates provided by popular sports apps. 
+With a slightly more complex model we could use these proxies to track a measure of fitness over time, similar to VO~2~ max estimates provided by popular sports apps. 
 
 Well that's all for now. Perhaps I can revist this in a year and compare to data from 2018, possibly including heart rate data too!
